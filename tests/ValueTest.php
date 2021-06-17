@@ -23,7 +23,6 @@ class ValueTest extends TestCase
             "isPrivate" => true,
             "isPublic" => true
         ]);
-
     }
 }
 
